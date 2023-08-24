@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\bin\Debug\net7.0\Nomes.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\bin\Debug\net7.0\Nomes.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\bin\Debug\net7.0\Nomes.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\bin\Debug\net7.0\Nomes.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\bin\Debug\net7.0\Nomes.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\obj\Debug\net7.0\Nomes.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\obj\Debug\net7.0\Nomes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\obj\Debug\net7.0\Nomes.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\obj\Debug\net7.0\Nomes.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\obj\Debug\net7.0\Nomes.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\obj\Debug\net7.0\Nomes.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\obj\Debug\net7.0\refint\Nomes.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\obj\Debug\net7.0\Nomes.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\obj\Debug\net7.0\Nomes.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Nomes\Nomes\obj\Debug\net7.0\ref\Nomes.dll
