@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\bin\Debug\net7.0\Operadora.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\bin\Debug\net7.0\Operadora.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\bin\Debug\net7.0\Operadora.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\bin\Debug\net7.0\Operadora.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\bin\Debug\net7.0\Operadora.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\obj\Debug\net7.0\Operadora.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\obj\Debug\net7.0\Operadora.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\obj\Debug\net7.0\Operadora.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\obj\Debug\net7.0\Operadora.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\obj\Debug\net7.0\Operadora.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\obj\Debug\net7.0\Operadora.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\obj\Debug\net7.0\refint\Operadora.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\obj\Debug\net7.0\Operadora.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\obj\Debug\net7.0\Operadora.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Operadora\Operadora\obj\Debug\net7.0\ref\Operadora.dll
