@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\bin\Debug\net7.0\Cedulas.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\bin\Debug\net7.0\Cedulas.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\bin\Debug\net7.0\Cedulas.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\bin\Debug\net7.0\Cedulas.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\bin\Debug\net7.0\Cedulas.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\obj\Debug\net7.0\Cedulas.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\obj\Debug\net7.0\Cedulas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\obj\Debug\net7.0\Cedulas.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\obj\Debug\net7.0\Cedulas.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\obj\Debug\net7.0\Cedulas.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\obj\Debug\net7.0\Cedulas.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\obj\Debug\net7.0\refint\Cedulas.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\obj\Debug\net7.0\Cedulas.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\obj\Debug\net7.0\Cedulas.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Cedulas\Cedulas\obj\Debug\net7.0\ref\Cedulas.dll
