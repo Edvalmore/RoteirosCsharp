@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\bin\Debug\net7.0\IdadeEmDias.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\bin\Debug\net7.0\IdadeEmDias.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\bin\Debug\net7.0\IdadeEmDias.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\bin\Debug\net7.0\IdadeEmDias.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\bin\Debug\net7.0\IdadeEmDias.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\obj\Debug\net7.0\IdadeEmDias.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\obj\Debug\net7.0\IdadeEmDias.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\obj\Debug\net7.0\IdadeEmDias.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\obj\Debug\net7.0\IdadeEmDias.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\obj\Debug\net7.0\IdadeEmDias.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\obj\Debug\net7.0\IdadeEmDias.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\obj\Debug\net7.0\refint\IdadeEmDias.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\obj\Debug\net7.0\IdadeEmDias.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\obj\Debug\net7.0\IdadeEmDias.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\IdadeEmDias\IdadeEmDias\obj\Debug\net7.0\ref\IdadeEmDias.dll
