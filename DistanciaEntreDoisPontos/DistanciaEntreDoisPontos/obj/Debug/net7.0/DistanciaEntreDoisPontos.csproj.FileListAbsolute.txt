@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\net7.0\DistanciaEntreDoisPontos.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\net7.0\DistanciaEntreDoisPontos.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\net7.0\DistanciaEntreDoisPontos.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\net7.0\DistanciaEntreDoisPontos.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\bin\Debug\net7.0\DistanciaEntreDoisPontos.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net7.0\DistanciaEntreDoisPontos.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net7.0\DistanciaEntreDoisPontos.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net7.0\DistanciaEntreDoisPontos.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net7.0\DistanciaEntreDoisPontos.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net7.0\DistanciaEntreDoisPontos.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net7.0\DistanciaEntreDoisPontos.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net7.0\refint\DistanciaEntreDoisPontos.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net7.0\DistanciaEntreDoisPontos.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net7.0\DistanciaEntreDoisPontos.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DistanciaEntreDoisPontos\DistanciaEntreDoisPontos\obj\Debug\net7.0\ref\DistanciaEntreDoisPontos.dll
