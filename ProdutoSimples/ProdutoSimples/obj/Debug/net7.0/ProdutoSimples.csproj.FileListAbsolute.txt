@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\bin\Debug\net7.0\ProdutoSimples.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\bin\Debug\net7.0\ProdutoSimples.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\bin\Debug\net7.0\ProdutoSimples.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\bin\Debug\net7.0\ProdutoSimples.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\bin\Debug\net7.0\ProdutoSimples.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\obj\Debug\net7.0\ProdutoSimples.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\obj\Debug\net7.0\ProdutoSimples.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\obj\Debug\net7.0\ProdutoSimples.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\obj\Debug\net7.0\ProdutoSimples.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\obj\Debug\net7.0\ProdutoSimples.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\obj\Debug\net7.0\ProdutoSimples.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\obj\Debug\net7.0\refint\ProdutoSimples.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\obj\Debug\net7.0\ProdutoSimples.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\obj\Debug\net7.0\ProdutoSimples.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ProdutoSimples\ProdutoSimples\obj\Debug\net7.0\ref\ProdutoSimples.dll
