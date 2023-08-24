@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\bin\Debug\net7.0\DiaSemana.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\bin\Debug\net7.0\DiaSemana.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\bin\Debug\net7.0\DiaSemana.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\bin\Debug\net7.0\DiaSemana.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\bin\Debug\net7.0\DiaSemana.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\obj\Debug\net7.0\DiaSemana.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\obj\Debug\net7.0\DiaSemana.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\obj\Debug\net7.0\DiaSemana.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\obj\Debug\net7.0\DiaSemana.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\obj\Debug\net7.0\DiaSemana.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\obj\Debug\net7.0\DiaSemana.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\obj\Debug\net7.0\refint\DiaSemana.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\obj\Debug\net7.0\DiaSemana.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\obj\Debug\net7.0\DiaSemana.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\DiaSemana\DiaSemana\obj\Debug\net7.0\ref\DiaSemana.dll
