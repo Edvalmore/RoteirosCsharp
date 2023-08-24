@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\bin\Debug\net7.0\Intervalo.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\bin\Debug\net7.0\Intervalo.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\bin\Debug\net7.0\Intervalo.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\bin\Debug\net7.0\Intervalo.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\bin\Debug\net7.0\Intervalo.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\obj\Debug\net7.0\Intervalo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\obj\Debug\net7.0\Intervalo.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\obj\Debug\net7.0\Intervalo.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\obj\Debug\net7.0\Intervalo.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\obj\Debug\net7.0\Intervalo.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\obj\Debug\net7.0\refint\Intervalo.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\obj\Debug\net7.0\Intervalo.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\obj\Debug\net7.0\Intervalo.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Intervalo\Intervalo\obj\Debug\net7.0\ref\Intervalo.dll
