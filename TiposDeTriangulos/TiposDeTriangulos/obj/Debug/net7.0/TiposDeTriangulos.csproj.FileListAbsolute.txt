@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net7.0\TiposDeTriangulos.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net7.0\TiposDeTriangulos.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net7.0\TiposDeTriangulos.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net7.0\TiposDeTriangulos.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\bin\Debug\net7.0\TiposDeTriangulos.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net7.0\TiposDeTriangulos.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net7.0\TiposDeTriangulos.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net7.0\TiposDeTriangulos.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net7.0\TiposDeTriangulos.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net7.0\TiposDeTriangulos.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net7.0\refint\TiposDeTriangulos.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net7.0\TiposDeTriangulos.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net7.0\TiposDeTriangulos.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TiposDeTriangulos\TiposDeTriangulos\obj\Debug\net7.0\ref\TiposDeTriangulos.dll
