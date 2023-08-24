@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\bin\Debug\net7.0\Salario.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\bin\Debug\net7.0\Salario.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\bin\Debug\net7.0\Salario.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\bin\Debug\net7.0\Salario.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\bin\Debug\net7.0\Salario.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\obj\Debug\net7.0\Salario.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\obj\Debug\net7.0\Salario.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\obj\Debug\net7.0\Salario.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\obj\Debug\net7.0\Salario.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\obj\Debug\net7.0\Salario.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\obj\Debug\net7.0\Salario.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\obj\Debug\net7.0\refint\Salario.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\obj\Debug\net7.0\Salario.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\obj\Debug\net7.0\Salario.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Salario\Salario\obj\Debug\net7.0\ref\Salario.dll
