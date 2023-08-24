@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\bin\Debug\net7.0\InteracaoComUsuario.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\bin\Debug\net7.0\InteracaoComUsuario.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\bin\Debug\net7.0\InteracaoComUsuario.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\bin\Debug\net7.0\InteracaoComUsuario.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\bin\Debug\net7.0\InteracaoComUsuario.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\obj\Debug\net7.0\InteracaoComUsuario.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\obj\Debug\net7.0\InteracaoComUsuario.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\obj\Debug\net7.0\InteracaoComUsuario.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\obj\Debug\net7.0\InteracaoComUsuario.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\obj\Debug\net7.0\InteracaoComUsuario.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\obj\Debug\net7.0\InteracaoComUsuario.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\obj\Debug\net7.0\refint\InteracaoComUsuario.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\obj\Debug\net7.0\InteracaoComUsuario.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\obj\Debug\net7.0\InteracaoComUsuario.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\InteracaoComUsuario\InteracaoComUsuario\obj\Debug\net7.0\ref\InteracaoComUsuario.dll
