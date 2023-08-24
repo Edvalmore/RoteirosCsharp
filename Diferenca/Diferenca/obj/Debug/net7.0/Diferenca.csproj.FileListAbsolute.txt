@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\bin\Debug\net7.0\Diferenca.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\bin\Debug\net7.0\Diferenca.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\bin\Debug\net7.0\Diferenca.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\bin\Debug\net7.0\Diferenca.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\bin\Debug\net7.0\Diferenca.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\obj\Debug\net7.0\Diferenca.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\obj\Debug\net7.0\Diferenca.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\obj\Debug\net7.0\Diferenca.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\obj\Debug\net7.0\Diferenca.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\obj\Debug\net7.0\Diferenca.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\obj\Debug\net7.0\Diferenca.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\obj\Debug\net7.0\refint\Diferenca.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\obj\Debug\net7.0\Diferenca.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\obj\Debug\net7.0\Diferenca.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Diferenca\Diferenca\obj\Debug\net7.0\ref\Diferenca.dll
