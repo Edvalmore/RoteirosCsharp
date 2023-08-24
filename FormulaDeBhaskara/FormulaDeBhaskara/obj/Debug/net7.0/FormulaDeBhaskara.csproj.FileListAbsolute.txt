@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net7.0\FormulaDeBhaskara.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net7.0\FormulaDeBhaskara.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net7.0\FormulaDeBhaskara.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net7.0\FormulaDeBhaskara.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\bin\Debug\net7.0\FormulaDeBhaskara.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net7.0\FormulaDeBhaskara.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net7.0\FormulaDeBhaskara.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net7.0\FormulaDeBhaskara.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net7.0\FormulaDeBhaskara.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net7.0\FormulaDeBhaskara.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net7.0\FormulaDeBhaskara.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net7.0\refint\FormulaDeBhaskara.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net7.0\FormulaDeBhaskara.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net7.0\FormulaDeBhaskara.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\FormulaDeBhaskara\FormulaDeBhaskara\obj\Debug\net7.0\ref\FormulaDeBhaskara.dll
