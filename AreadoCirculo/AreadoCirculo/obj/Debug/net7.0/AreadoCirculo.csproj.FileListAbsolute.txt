@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\bin\Debug\net7.0\AreadoCirculo.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\bin\Debug\net7.0\AreadoCirculo.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\bin\Debug\net7.0\AreadoCirculo.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\bin\Debug\net7.0\AreadoCirculo.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\bin\Debug\net7.0\AreadoCirculo.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\obj\Debug\net7.0\AreadoCirculo.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\obj\Debug\net7.0\AreadoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\obj\Debug\net7.0\AreadoCirculo.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\obj\Debug\net7.0\AreadoCirculo.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\obj\Debug\net7.0\AreadoCirculo.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\obj\Debug\net7.0\AreadoCirculo.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\obj\Debug\net7.0\refint\AreadoCirculo.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\obj\Debug\net7.0\AreadoCirculo.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\obj\Debug\net7.0\AreadoCirculo.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AreadoCirculo\AreadoCirculo\obj\Debug\net7.0\ref\AreadoCirculo.dll
