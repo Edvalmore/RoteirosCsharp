@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\bin\Debug\net7.0\CalculoSimples.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\bin\Debug\net7.0\CalculoSimples.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\bin\Debug\net7.0\CalculoSimples.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\bin\Debug\net7.0\CalculoSimples.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\bin\Debug\net7.0\CalculoSimples.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\obj\Debug\net7.0\CalculoSimples.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\obj\Debug\net7.0\CalculoSimples.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\obj\Debug\net7.0\CalculoSimples.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\obj\Debug\net7.0\CalculoSimples.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\obj\Debug\net7.0\CalculoSimples.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\obj\Debug\net7.0\CalculoSimples.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\obj\Debug\net7.0\refint\CalculoSimples.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\obj\Debug\net7.0\CalculoSimples.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\obj\Debug\net7.0\CalculoSimples.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\PrimeiroProgram\Exercicios\CalculoSimples\CalculoSimples\obj\Debug\net7.0\ref\CalculoSimples.dll

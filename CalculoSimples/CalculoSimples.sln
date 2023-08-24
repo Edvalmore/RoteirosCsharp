@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoSimples", "CalculoSimples\CalculoSimples.csproj", "{23357885-5295-4BD7-B91A-751FB0ABFBFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23357885-5295-4BD7-B91A-751FB0ABFBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23357885-5295-4BD7-B91A-751FB0ABFBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23357885-5295-4BD7-B91A-751FB0ABFBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23357885-5295-4BD7-B91A-751FB0ABFBFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2DF8ADD-1B4F-4B25-9568-B5C2E6464F0A}
+	EndGlobalSection
+EndGlobal
