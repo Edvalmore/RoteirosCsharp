@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net7.0\TesteDeSelecao1.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net7.0\TesteDeSelecao1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net7.0\TesteDeSelecao1.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net7.0\TesteDeSelecao1.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net7.0\TesteDeSelecao1.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\bin\Debug\net7.0\TesteDeSelecao1.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\bin\Debug\net7.0\TesteDeSelecao1.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\bin\Debug\net7.0\TesteDeSelecao1.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\bin\Debug\net7.0\TesteDeSelecao1.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\bin\Debug\net7.0\TesteDeSelecao1.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net7.0\TesteDeSelecao1.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net7.0\refint\TesteDeSelecao1.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net7.0\TesteDeSelecao1.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net7.0\TesteDeSelecao1.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TesteDeSelecao1\TesteDeSelecao1\obj\Debug\net7.0\ref\TesteDeSelecao1.dll
