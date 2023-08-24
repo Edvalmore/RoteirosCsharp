@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\bin\Debug\net7.0\NotasEMoedas.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\bin\Debug\net7.0\NotasEMoedas.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\bin\Debug\net7.0\NotasEMoedas.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\bin\Debug\net7.0\NotasEMoedas.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\bin\Debug\net7.0\NotasEMoedas.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\obj\Debug\net7.0\NotasEMoedas.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\obj\Debug\net7.0\NotasEMoedas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\obj\Debug\net7.0\NotasEMoedas.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\obj\Debug\net7.0\NotasEMoedas.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\obj\Debug\net7.0\NotasEMoedas.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\obj\Debug\net7.0\NotasEMoedas.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\obj\Debug\net7.0\refint\NotasEMoedas.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\obj\Debug\net7.0\NotasEMoedas.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\obj\Debug\net7.0\NotasEMoedas.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\NotasEMoedas\NotasEMoedas\obj\Debug\net7.0\ref\NotasEMoedas.dll
