@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\bin\Debug\net7.0\AumentoDeSalario.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\bin\Debug\net7.0\AumentoDeSalario.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\bin\Debug\net7.0\AumentoDeSalario.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\bin\Debug\net7.0\AumentoDeSalario.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\bin\Debug\net7.0\AumentoDeSalario.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net7.0\AumentoDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net7.0\AumentoDeSalario.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net7.0\AumentoDeSalario.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net7.0\AumentoDeSalario.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net7.0\AumentoDeSalario.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net7.0\refint\AumentoDeSalario.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net7.0\AumentoDeSalario.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net7.0\AumentoDeSalario.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\AumentoDeSalario\AumentoDeSalario\obj\Debug\net7.0\ref\AumentoDeSalario.dll
