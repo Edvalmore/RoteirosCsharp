@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\bin\Debug\net7.0\OMaior.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\bin\Debug\net7.0\OMaior.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\bin\Debug\net7.0\OMaior.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\bin\Debug\net7.0\OMaior.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\bin\Debug\net7.0\OMaior.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\obj\Debug\net7.0\OMaior.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\obj\Debug\net7.0\OMaior.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\obj\Debug\net7.0\OMaior.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\obj\Debug\net7.0\OMaior.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\obj\Debug\net7.0\OMaior.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\obj\Debug\net7.0\OMaior.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\obj\Debug\net7.0\refint\OMaior.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\obj\Debug\net7.0\OMaior.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\obj\Debug\net7.0\OMaior.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\OMaior\OMaior\obj\Debug\net7.0\ref\OMaior.dll
