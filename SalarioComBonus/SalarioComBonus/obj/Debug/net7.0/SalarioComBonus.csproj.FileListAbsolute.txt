@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\bin\Debug\net7.0\SalarioComBonus.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\bin\Debug\net7.0\SalarioComBonus.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\bin\Debug\net7.0\SalarioComBonus.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\bin\Debug\net7.0\SalarioComBonus.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\bin\Debug\net7.0\SalarioComBonus.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\obj\Debug\net7.0\SalarioComBonus.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\obj\Debug\net7.0\SalarioComBonus.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\obj\Debug\net7.0\SalarioComBonus.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\obj\Debug\net7.0\SalarioComBonus.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\obj\Debug\net7.0\SalarioComBonus.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\obj\Debug\net7.0\SalarioComBonus.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\obj\Debug\net7.0\refint\SalarioComBonus.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\obj\Debug\net7.0\SalarioComBonus.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\obj\Debug\net7.0\SalarioComBonus.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SalarioComBonus\SalarioComBonus\obj\Debug\net7.0\ref\SalarioComBonus.dll
