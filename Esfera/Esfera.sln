@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esfera", "Esfera\Esfera.csproj", "{A10DEE46-0A96-4F0F-BC8B-5424628FA56F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A10DEE46-0A96-4F0F-BC8B-5424628FA56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10DEE46-0A96-4F0F-BC8B-5424628FA56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10DEE46-0A96-4F0F-BC8B-5424628FA56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10DEE46-0A96-4F0F-BC8B-5424628FA56F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AD5657F-38F1-467D-810B-12ADE36D53B7}
+	EndGlobalSection
+EndGlobal

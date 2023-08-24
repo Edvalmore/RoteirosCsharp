@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\bin\Debug\net7.0\Esfera.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\bin\Debug\net7.0\Esfera.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\bin\Debug\net7.0\Esfera.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\bin\Debug\net7.0\Esfera.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\bin\Debug\net7.0\Esfera.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\obj\Debug\net7.0\Esfera.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\obj\Debug\net7.0\Esfera.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\obj\Debug\net7.0\Esfera.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\obj\Debug\net7.0\Esfera.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\obj\Debug\net7.0\Esfera.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\obj\Debug\net7.0\Esfera.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\obj\Debug\net7.0\refint\Esfera.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\obj\Debug\net7.0\Esfera.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\obj\Debug\net7.0\Esfera.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Esfera\Esfera\obj\Debug\net7.0\ref\Esfera.dll
