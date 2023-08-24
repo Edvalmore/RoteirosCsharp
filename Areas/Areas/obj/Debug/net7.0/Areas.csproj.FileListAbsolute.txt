@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\bin\Debug\net7.0\Areas.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\bin\Debug\net7.0\Areas.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\bin\Debug\net7.0\Areas.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\bin\Debug\net7.0\Areas.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\bin\Debug\net7.0\Areas.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\obj\Debug\net7.0\Areas.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\obj\Debug\net7.0\Areas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\obj\Debug\net7.0\Areas.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\obj\Debug\net7.0\Areas.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\obj\Debug\net7.0\Areas.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\obj\Debug\net7.0\Areas.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\obj\Debug\net7.0\refint\Areas.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\obj\Debug\net7.0\Areas.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\obj\Debug\net7.0\Areas.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Areas\Areas\obj\Debug\net7.0\ref\Areas.dll
