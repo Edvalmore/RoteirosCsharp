@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\bin\Debug\net7.0\Medidas.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\bin\Debug\net7.0\Medidas.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\bin\Debug\net7.0\Medidas.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\bin\Debug\net7.0\Medidas.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\bin\Debug\net7.0\Medidas.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\obj\Debug\net7.0\Medidas.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\obj\Debug\net7.0\Medidas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\obj\Debug\net7.0\Medidas.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\obj\Debug\net7.0\Medidas.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\obj\Debug\net7.0\Medidas.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\obj\Debug\net7.0\Medidas.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\obj\Debug\net7.0\refint\Medidas.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\obj\Debug\net7.0\Medidas.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\obj\Debug\net7.0\Medidas.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Medidas\Medidas\obj\Debug\net7.0\ref\Medidas.dll
