@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net7.0\GastoDeCombustivel.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net7.0\GastoDeCombustivel.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net7.0\GastoDeCombustivel.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net7.0\GastoDeCombustivel.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\bin\Debug\net7.0\GastoDeCombustivel.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net7.0\GastoDeCombustivel.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net7.0\GastoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net7.0\GastoDeCombustivel.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net7.0\GastoDeCombustivel.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net7.0\GastoDeCombustivel.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net7.0\GastoDeCombustivel.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net7.0\refint\GastoDeCombustivel.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net7.0\GastoDeCombustivel.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net7.0\GastoDeCombustivel.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\GastoDeCombustivel\GastoDeCombustivel\obj\Debug\net7.0\ref\GastoDeCombustivel.dll
