@@ -1,23 +1,15 @@
-﻿using System.Globalization;
-using System;
-
-internal class Area
+﻿using System;
+using System.Globalization;
+internal class Program
 {
     private static void Main(string[] args)
     {
-        double area, precoTotal;
+        double n = 3.14159, raio, area;
 
-        Console.WriteLine("Informe as medidas de largura e comprimento do terreno:");
-        double largura = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-        double comprimento = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-        Console.WriteLine("Informe o preço do metro quadrado do terreno");
-        double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+        area = n * (Math.Pow(raio, 2));
 
-        area = largura * comprimento;
-        precoTotal = preco * area;
-
-        Console.WriteLine("AREA = " +  area.ToString("F2"), CultureInfo.InvariantCulture);
-        Console.WriteLine("PRECO = " + precoTotal.ToString("F2"), CultureInfo.InvariantCulture);
+        Console.WriteLine("A=" + area.ToString("F4"), CultureInfo.InvariantCulture);
 
     }
 }
