@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\bin\Debug\net7.0\Consumo.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\bin\Debug\net7.0\Consumo.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\bin\Debug\net7.0\Consumo.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\bin\Debug\net7.0\Consumo.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\bin\Debug\net7.0\Consumo.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\obj\Debug\net7.0\Consumo.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\obj\Debug\net7.0\Consumo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\obj\Debug\net7.0\Consumo.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\obj\Debug\net7.0\Consumo.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\obj\Debug\net7.0\Consumo.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\obj\Debug\net7.0\Consumo.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\obj\Debug\net7.0\refint\Consumo.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\obj\Debug\net7.0\Consumo.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\obj\Debug\net7.0\Consumo.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Consumo\Consumo\obj\Debug\net7.0\ref\Consumo.dll
