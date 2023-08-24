@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\net7.0\ConversaoDeTempo.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\net7.0\ConversaoDeTempo.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\net7.0\ConversaoDeTempo.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\net7.0\ConversaoDeTempo.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\bin\Debug\net7.0\ConversaoDeTempo.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net7.0\ConversaoDeTempo.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net7.0\ConversaoDeTempo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net7.0\ConversaoDeTempo.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net7.0\ConversaoDeTempo.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net7.0\ConversaoDeTempo.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net7.0\ConversaoDeTempo.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net7.0\refint\ConversaoDeTempo.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net7.0\ConversaoDeTempo.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net7.0\ConversaoDeTempo.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ConversaoDeTempo\ConversaoDeTempo\obj\Debug\net7.0\ref\ConversaoDeTempo.dll
