@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\bin\Debug\net7.0\TempoDeJogo.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\bin\Debug\net7.0\TempoDeJogo.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\bin\Debug\net7.0\TempoDeJogo.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\bin\Debug\net7.0\TempoDeJogo.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\bin\Debug\net7.0\TempoDeJogo.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\obj\Debug\net7.0\TempoDeJogo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\obj\Debug\net7.0\TempoDeJogo.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\obj\Debug\net7.0\TempoDeJogo.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\obj\Debug\net7.0\TempoDeJogo.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\obj\Debug\net7.0\TempoDeJogo.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\obj\Debug\net7.0\refint\TempoDeJogo.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\obj\Debug\net7.0\TempoDeJogo.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\obj\Debug\net7.0\TempoDeJogo.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TempoDeJogo\TempoDeJogo\obj\Debug\net7.0\ref\TempoDeJogo.dll
