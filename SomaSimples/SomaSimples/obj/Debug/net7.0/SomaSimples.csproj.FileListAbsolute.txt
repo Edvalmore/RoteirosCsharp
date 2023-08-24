@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\bin\Debug\net7.0\SomaSimples.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\bin\Debug\net7.0\SomaSimples.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\bin\Debug\net7.0\SomaSimples.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\bin\Debug\net7.0\SomaSimples.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\bin\Debug\net7.0\SomaSimples.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\obj\Debug\net7.0\SomaSimples.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\obj\Debug\net7.0\SomaSimples.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\obj\Debug\net7.0\SomaSimples.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\obj\Debug\net7.0\SomaSimples.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\obj\Debug\net7.0\SomaSimples.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\obj\Debug\net7.0\SomaSimples.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\obj\Debug\net7.0\refint\SomaSimples.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\obj\Debug\net7.0\SomaSimples.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\obj\Debug\net7.0\SomaSimples.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaSimples\SomaSimples\obj\Debug\net7.0\ref\SomaSimples.dll
