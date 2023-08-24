@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net7.0\ExtremamenteBasico.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net7.0\ExtremamenteBasico.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net7.0\ExtremamenteBasico.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net7.0\ExtremamenteBasico.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\bin\Debug\net7.0\ExtremamenteBasico.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net7.0\ExtremamenteBasico.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net7.0\ExtremamenteBasico.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net7.0\ExtremamenteBasico.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net7.0\ExtremamenteBasico.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net7.0\ExtremamenteBasico.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net7.0\ExtremamenteBasico.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net7.0\refint\ExtremamenteBasico.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net7.0\ExtremamenteBasico.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net7.0\ExtremamenteBasico.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ExtremamenteBasico\ExtremamenteBasico\obj\Debug\net7.0\ref\ExtremamenteBasico.dll
