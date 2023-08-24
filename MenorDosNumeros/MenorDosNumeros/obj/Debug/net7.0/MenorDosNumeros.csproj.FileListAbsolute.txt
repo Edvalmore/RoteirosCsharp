@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\bin\Debug\net7.0\MenorDosNumeros.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\bin\Debug\net7.0\MenorDosNumeros.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\bin\Debug\net7.0\MenorDosNumeros.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\bin\Debug\net7.0\MenorDosNumeros.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\bin\Debug\net7.0\MenorDosNumeros.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\obj\Debug\net7.0\MenorDosNumeros.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\obj\Debug\net7.0\MenorDosNumeros.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\obj\Debug\net7.0\MenorDosNumeros.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\obj\Debug\net7.0\MenorDosNumeros.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\obj\Debug\net7.0\MenorDosNumeros.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\obj\Debug\net7.0\MenorDosNumeros.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\obj\Debug\net7.0\refint\MenorDosNumeros.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\obj\Debug\net7.0\MenorDosNumeros.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\obj\Debug\net7.0\MenorDosNumeros.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MenorDosNumeros\MenorDosNumeros\obj\Debug\net7.0\ref\MenorDosNumeros.dll
