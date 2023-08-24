@@ -1,0 +1,15 @@
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\bin\Debug\net7.0\Media1.exe
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\bin\Debug\net7.0\Media1.deps.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\bin\Debug\net7.0\Media1.runtimeconfig.json
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\bin\Debug\net7.0\Media1.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\bin\Debug\net7.0\Media1.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\obj\Debug\net7.0\Media1.csproj.AssemblyReference.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\obj\Debug\net7.0\Media1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\obj\Debug\net7.0\Media1.AssemblyInfoInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\obj\Debug\net7.0\Media1.AssemblyInfo.cs
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\obj\Debug\net7.0\Media1.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\obj\Debug\net7.0\Media1.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\obj\Debug\net7.0\refint\Media1.dll
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\obj\Debug\net7.0\Media1.pdb
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\obj\Debug\net7.0\Media1.genruntimeconfig.cache
+G:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Media1\Media1\obj\Debug\net7.0\ref\Media1.dll
