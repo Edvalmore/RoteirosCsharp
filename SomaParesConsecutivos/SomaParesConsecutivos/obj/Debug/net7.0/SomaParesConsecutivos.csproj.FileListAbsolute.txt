@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\bin\Debug\net7.0\SomaParesConsecutivos.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\bin\Debug\net7.0\SomaParesConsecutivos.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\bin\Debug\net7.0\SomaParesConsecutivos.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\bin\Debug\net7.0\SomaParesConsecutivos.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\bin\Debug\net7.0\SomaParesConsecutivos.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\obj\Debug\net7.0\SomaParesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\obj\Debug\net7.0\SomaParesConsecutivos.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\obj\Debug\net7.0\SomaParesConsecutivos.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\obj\Debug\net7.0\SomaParesConsecutivos.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\obj\Debug\net7.0\SomaParesConsecutivos.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\obj\Debug\net7.0\refint\SomaParesConsecutivos.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\obj\Debug\net7.0\SomaParesConsecutivos.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\obj\Debug\net7.0\SomaParesConsecutivos.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaParesConsecutivos\SomaParesConsecutivos\obj\Debug\net7.0\ref\SomaParesConsecutivos.dll
