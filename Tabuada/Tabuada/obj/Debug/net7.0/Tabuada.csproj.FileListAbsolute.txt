@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\bin\Debug\net7.0\Tabuada.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\bin\Debug\net7.0\Tabuada.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\bin\Debug\net7.0\Tabuada.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\bin\Debug\net7.0\Tabuada.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\bin\Debug\net7.0\Tabuada.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\obj\Debug\net7.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\obj\Debug\net7.0\Tabuada.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\obj\Debug\net7.0\Tabuada.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\obj\Debug\net7.0\Tabuada.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\obj\Debug\net7.0\Tabuada.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\obj\Debug\net7.0\refint\Tabuada.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\obj\Debug\net7.0\Tabuada.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\obj\Debug\net7.0\Tabuada.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Tabuada\Tabuada\obj\Debug\net7.0\ref\Tabuada.dll
