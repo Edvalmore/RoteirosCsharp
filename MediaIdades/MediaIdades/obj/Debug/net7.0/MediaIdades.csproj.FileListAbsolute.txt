@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\bin\Debug\net7.0\MediaIdades.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\bin\Debug\net7.0\MediaIdades.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\bin\Debug\net7.0\MediaIdades.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\bin\Debug\net7.0\MediaIdades.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\bin\Debug\net7.0\MediaIdades.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\obj\Debug\net7.0\MediaIdades.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\obj\Debug\net7.0\MediaIdades.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\obj\Debug\net7.0\MediaIdades.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\obj\Debug\net7.0\MediaIdades.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\obj\Debug\net7.0\MediaIdades.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\obj\Debug\net7.0\refint\MediaIdades.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\obj\Debug\net7.0\MediaIdades.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\obj\Debug\net7.0\MediaIdades.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\MediaIdades\MediaIdades\obj\Debug\net7.0\ref\MediaIdades.dll
