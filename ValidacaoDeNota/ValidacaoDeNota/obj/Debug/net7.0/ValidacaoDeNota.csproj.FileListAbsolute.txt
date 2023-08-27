@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\bin\Debug\net7.0\ValidacaoDeNota.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\bin\Debug\net7.0\ValidacaoDeNota.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\bin\Debug\net7.0\ValidacaoDeNota.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\bin\Debug\net7.0\ValidacaoDeNota.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\bin\Debug\net7.0\ValidacaoDeNota.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net7.0\ValidacaoDeNota.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net7.0\ValidacaoDeNota.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net7.0\ValidacaoDeNota.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net7.0\ValidacaoDeNota.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net7.0\ValidacaoDeNota.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net7.0\refint\ValidacaoDeNota.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net7.0\ValidacaoDeNota.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net7.0\ValidacaoDeNota.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\ValidacaoDeNota\ValidacaoDeNota\obj\Debug\net7.0\ref\ValidacaoDeNota.dll
