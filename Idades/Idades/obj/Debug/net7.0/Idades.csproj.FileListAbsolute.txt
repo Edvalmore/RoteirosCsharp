@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\bin\Debug\net7.0\Idades.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\bin\Debug\net7.0\Idades.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\bin\Debug\net7.0\Idades.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\bin\Debug\net7.0\Idades.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\bin\Debug\net7.0\Idades.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\obj\Debug\net7.0\Idades.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\obj\Debug\net7.0\Idades.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\obj\Debug\net7.0\Idades.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\obj\Debug\net7.0\Idades.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\obj\Debug\net7.0\Idades.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\obj\Debug\net7.0\refint\Idades.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\obj\Debug\net7.0\Idades.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\obj\Debug\net7.0\Idades.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Idades\Idades\obj\Debug\net7.0\ref\Idades.dll
