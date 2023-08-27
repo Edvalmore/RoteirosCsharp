@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net7.0\TipoDeCombustivel.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net7.0\TipoDeCombustivel.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net7.0\TipoDeCombustivel.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net7.0\TipoDeCombustivel.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\bin\Debug\net7.0\TipoDeCombustivel.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net7.0\TipoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net7.0\TipoDeCombustivel.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net7.0\TipoDeCombustivel.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net7.0\TipoDeCombustivel.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net7.0\TipoDeCombustivel.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net7.0\refint\TipoDeCombustivel.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net7.0\TipoDeCombustivel.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net7.0\TipoDeCombustivel.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\TipoDeCombustivel\TipoDeCombustivel\obj\Debug\net7.0\ref\TipoDeCombustivel.dll
