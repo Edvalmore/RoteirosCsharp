@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\bin\Debug\net7.0\VariasNotasComValidacao.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\bin\Debug\net7.0\VariasNotasComValidacao.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\bin\Debug\net7.0\VariasNotasComValidacao.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\bin\Debug\net7.0\VariasNotasComValidacao.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\bin\Debug\net7.0\VariasNotasComValidacao.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net7.0\VariasNotasComValidacao.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net7.0\VariasNotasComValidacao.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net7.0\VariasNotasComValidacao.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net7.0\VariasNotasComValidacao.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net7.0\VariasNotasComValidacao.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net7.0\refint\VariasNotasComValidacao.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net7.0\VariasNotasComValidacao.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net7.0\VariasNotasComValidacao.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\VariasNotasComValidacao\VariasNotasComValidacao\obj\Debug\net7.0\ref\VariasNotasComValidacao.dll
