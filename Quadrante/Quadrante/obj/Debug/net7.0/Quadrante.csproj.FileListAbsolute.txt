@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\bin\Debug\net7.0\Quadrante.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\bin\Debug\net7.0\Quadrante.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\bin\Debug\net7.0\Quadrante.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\bin\Debug\net7.0\Quadrante.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\bin\Debug\net7.0\Quadrante.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\obj\Debug\net7.0\Quadrante.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\obj\Debug\net7.0\Quadrante.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\obj\Debug\net7.0\Quadrante.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\obj\Debug\net7.0\Quadrante.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\obj\Debug\net7.0\Quadrante.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\obj\Debug\net7.0\refint\Quadrante.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\obj\Debug\net7.0\Quadrante.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\obj\Debug\net7.0\Quadrante.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\Quadrante\Quadrante\obj\Debug\net7.0\ref\Quadrante.dll
