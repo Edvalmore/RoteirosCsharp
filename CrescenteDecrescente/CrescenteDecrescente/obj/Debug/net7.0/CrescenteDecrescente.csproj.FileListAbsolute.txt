@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\bin\Debug\net7.0\CrescenteDecrescente.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\bin\Debug\net7.0\CrescenteDecrescente.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\bin\Debug\net7.0\CrescenteDecrescente.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\bin\Debug\net7.0\CrescenteDecrescente.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\bin\Debug\net7.0\CrescenteDecrescente.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\obj\Debug\net7.0\CrescenteDecrescente.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\obj\Debug\net7.0\CrescenteDecrescente.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\obj\Debug\net7.0\CrescenteDecrescente.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\obj\Debug\net7.0\CrescenteDecrescente.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\obj\Debug\net7.0\CrescenteDecrescente.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\obj\Debug\net7.0\refint\CrescenteDecrescente.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\obj\Debug\net7.0\CrescenteDecrescente.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\obj\Debug\net7.0\CrescenteDecrescente.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\CrescenteDecrescente\CrescenteDecrescente\obj\Debug\net7.0\ref\CrescenteDecrescente.dll
