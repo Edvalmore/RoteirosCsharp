@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\bin\Debug\net7.0\SomaDeImparesConsecutivosII.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\bin\Debug\net7.0\SomaDeImparesConsecutivosII.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\bin\Debug\net7.0\SomaDeImparesConsecutivosII.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\bin\Debug\net7.0\SomaDeImparesConsecutivosII.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\bin\Debug\net7.0\SomaDeImparesConsecutivosII.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\obj\Debug\net7.0\SomaDeImparesConsecutivosII.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\obj\Debug\net7.0\SomaDeImparesConsecutivosII.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\obj\Debug\net7.0\SomaDeImparesConsecutivosII.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\obj\Debug\net7.0\SomaDeImparesConsecutivosII.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\obj\Debug\net7.0\SomaDeImparesConsecutivosII.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\obj\Debug\net7.0\refint\SomaDeImparesConsecutivosII.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\obj\Debug\net7.0\SomaDeImparesConsecutivosII.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\obj\Debug\net7.0\SomaDeImparesConsecutivosII.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SomaDeImparesConsecutivosII\SomaDeImparesConsecutivosII\obj\Debug\net7.0\ref\SomaDeImparesConsecutivosII.dll
