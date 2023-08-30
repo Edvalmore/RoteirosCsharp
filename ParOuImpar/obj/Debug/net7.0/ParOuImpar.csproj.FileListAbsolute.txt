@@ -1,0 +1,14 @@
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\bin\Debug\net7.0\ParOuImpar.exe
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\bin\Debug\net7.0\ParOuImpar.deps.json
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\bin\Debug\net7.0\ParOuImpar.runtimeconfig.json
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\bin\Debug\net7.0\ParOuImpar.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\bin\Debug\net7.0\ParOuImpar.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\obj\Debug\net7.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\obj\Debug\net7.0\ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\obj\Debug\net7.0\ParOuImpar.AssemblyInfo.cs
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\obj\Debug\net7.0\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\obj\Debug\net7.0\ParOuImpar.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\obj\Debug\net7.0\refint\ParOuImpar.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\obj\Debug\net7.0\ParOuImpar.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\obj\Debug\net7.0\ParOuImpar.genruntimeconfig.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\ParOuImpar\obj\Debug\net7.0\ref\ParOuImpar.dll
