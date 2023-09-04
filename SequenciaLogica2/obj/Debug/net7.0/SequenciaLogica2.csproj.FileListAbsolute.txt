@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\bin\Debug\net7.0\SequenciaLogica2.exe
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\bin\Debug\net7.0\SequenciaLogica2.deps.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\bin\Debug\net7.0\SequenciaLogica2.runtimeconfig.json
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\bin\Debug\net7.0\SequenciaLogica2.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\bin\Debug\net7.0\SequenciaLogica2.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\obj\Debug\net7.0\SequenciaLogica2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\obj\Debug\net7.0\SequenciaLogica2.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\obj\Debug\net7.0\SequenciaLogica2.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\obj\Debug\net7.0\SequenciaLogica2.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\obj\Debug\net7.0\SequenciaLogica2.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\obj\Debug\net7.0\refint\SequenciaLogica2.dll
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\obj\Debug\net7.0\SequenciaLogica2.pdb
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\obj\Debug\net7.0\SequenciaLogica2.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# Lógica de Programação\Projetos\Exercicios\SequenciaLogica2\obj\Debug\net7.0\ref\SequenciaLogica2.dll
