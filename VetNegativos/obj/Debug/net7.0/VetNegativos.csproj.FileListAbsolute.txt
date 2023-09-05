@@ -1,0 +1,14 @@
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\bin\Debug\net7.0\VetNegativos.exe
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\bin\Debug\net7.0\VetNegativos.deps.json
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\bin\Debug\net7.0\VetNegativos.runtimeconfig.json
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\bin\Debug\net7.0\VetNegativos.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\bin\Debug\net7.0\VetNegativos.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\obj\Debug\net7.0\VetNegativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\obj\Debug\net7.0\VetNegativos.AssemblyInfoInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\obj\Debug\net7.0\VetNegativos.AssemblyInfo.cs
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\obj\Debug\net7.0\VetNegativos.csproj.CoreCompileInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\obj\Debug\net7.0\VetNegativos.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\obj\Debug\net7.0\refint\VetNegativos.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\obj\Debug\net7.0\VetNegativos.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\obj\Debug\net7.0\VetNegativos.genruntimeconfig.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNegativos\obj\Debug\net7.0\ref\VetNegativos.dll
