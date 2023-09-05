@@ -1,0 +1,14 @@
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\bin\Debug\net7.0\VetNumerosReais.exe
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\bin\Debug\net7.0\VetNumerosReais.deps.json
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\bin\Debug\net7.0\VetNumerosReais.runtimeconfig.json
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\bin\Debug\net7.0\VetNumerosReais.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\bin\Debug\net7.0\VetNumerosReais.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\obj\Debug\net7.0\VetNumerosReais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\obj\Debug\net7.0\VetNumerosReais.AssemblyInfoInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\obj\Debug\net7.0\VetNumerosReais.AssemblyInfo.cs
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\obj\Debug\net7.0\VetNumerosReais.csproj.CoreCompileInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\obj\Debug\net7.0\VetNumerosReais.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\obj\Debug\net7.0\refint\VetNumerosReais.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\obj\Debug\net7.0\VetNumerosReais.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\obj\Debug\net7.0\VetNumerosReais.genruntimeconfig.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetNumerosReais\obj\Debug\net7.0\ref\VetNumerosReais.dll
