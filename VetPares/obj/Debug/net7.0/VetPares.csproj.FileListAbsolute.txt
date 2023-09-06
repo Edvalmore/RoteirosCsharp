@@ -1,0 +1,14 @@
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\bin\Debug\net7.0\VetPares.exe
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\bin\Debug\net7.0\VetPares.deps.json
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\bin\Debug\net7.0\VetPares.runtimeconfig.json
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\bin\Debug\net7.0\VetPares.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\bin\Debug\net7.0\VetPares.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\obj\Debug\net7.0\VetPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\obj\Debug\net7.0\VetPares.AssemblyInfoInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\obj\Debug\net7.0\VetPares.AssemblyInfo.cs
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\obj\Debug\net7.0\VetPares.csproj.CoreCompileInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\obj\Debug\net7.0\VetPares.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\obj\Debug\net7.0\refint\VetPares.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\obj\Debug\net7.0\VetPares.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\obj\Debug\net7.0\VetPares.genruntimeconfig.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetPares\obj\Debug\net7.0\ref\VetPares.dll
