@@ -1,0 +1,14 @@
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\bin\Debug\net7.0\VetSomaVetores.exe
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\bin\Debug\net7.0\VetSomaVetores.deps.json
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\bin\Debug\net7.0\VetSomaVetores.runtimeconfig.json
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\bin\Debug\net7.0\VetSomaVetores.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\bin\Debug\net7.0\VetSomaVetores.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\obj\Debug\net7.0\VetSomaVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\obj\Debug\net7.0\VetSomaVetores.AssemblyInfoInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\obj\Debug\net7.0\VetSomaVetores.AssemblyInfo.cs
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\obj\Debug\net7.0\VetSomaVetores.csproj.CoreCompileInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\obj\Debug\net7.0\VetSomaVetores.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\obj\Debug\net7.0\refint\VetSomaVetores.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\obj\Debug\net7.0\VetSomaVetores.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\obj\Debug\net7.0\VetSomaVetores.genruntimeconfig.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetSomaVetores\obj\Debug\net7.0\ref\VetSomaVetores.dll
