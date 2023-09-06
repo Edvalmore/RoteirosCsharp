@@ -1,0 +1,14 @@
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\bin\Debug\net7.0\VetMaior.exe
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\bin\Debug\net7.0\VetMaior.deps.json
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\bin\Debug\net7.0\VetMaior.runtimeconfig.json
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\bin\Debug\net7.0\VetMaior.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\bin\Debug\net7.0\VetMaior.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\obj\Debug\net7.0\VetMaior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\obj\Debug\net7.0\VetMaior.AssemblyInfoInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\obj\Debug\net7.0\VetMaior.AssemblyInfo.cs
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\obj\Debug\net7.0\VetMaior.csproj.CoreCompileInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\obj\Debug\net7.0\VetMaior.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\obj\Debug\net7.0\refint\VetMaior.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\obj\Debug\net7.0\VetMaior.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\obj\Debug\net7.0\VetMaior.genruntimeconfig.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\VetMaior\obj\Debug\net7.0\ref\VetMaior.dll
