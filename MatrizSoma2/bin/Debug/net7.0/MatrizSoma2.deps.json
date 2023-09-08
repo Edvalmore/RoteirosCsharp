@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MatrizSoma2/1.0.0": {
+        "runtime": {
+          "MatrizSoma2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MatrizSoma2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

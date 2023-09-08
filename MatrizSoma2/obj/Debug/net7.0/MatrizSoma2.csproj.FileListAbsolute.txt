@@ -1,0 +1,14 @@
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\bin\Debug\net7.0\MatrizSoma2.exe
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\bin\Debug\net7.0\MatrizSoma2.deps.json
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\bin\Debug\net7.0\MatrizSoma2.runtimeconfig.json
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\bin\Debug\net7.0\MatrizSoma2.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\bin\Debug\net7.0\MatrizSoma2.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\obj\Debug\net7.0\MatrizSoma2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\obj\Debug\net7.0\MatrizSoma2.AssemblyInfoInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\obj\Debug\net7.0\MatrizSoma2.AssemblyInfo.cs
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\obj\Debug\net7.0\MatrizSoma2.csproj.CoreCompileInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\obj\Debug\net7.0\MatrizSoma2.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\obj\Debug\net7.0\refint\MatrizSoma2.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\obj\Debug\net7.0\MatrizSoma2.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\obj\Debug\net7.0\MatrizSoma2.genruntimeconfig.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizSoma2\obj\Debug\net7.0\ref\MatrizSoma2.dll
