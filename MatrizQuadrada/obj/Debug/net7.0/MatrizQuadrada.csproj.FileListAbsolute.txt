@@ -1,0 +1,14 @@
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\bin\Debug\net7.0\MatrizQuadrada.exe
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\bin\Debug\net7.0\MatrizQuadrada.deps.json
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\bin\Debug\net7.0\MatrizQuadrada.runtimeconfig.json
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\bin\Debug\net7.0\MatrizQuadrada.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\bin\Debug\net7.0\MatrizQuadrada.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\obj\Debug\net7.0\MatrizQuadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\obj\Debug\net7.0\MatrizQuadrada.AssemblyInfoInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\obj\Debug\net7.0\MatrizQuadrada.AssemblyInfo.cs
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\obj\Debug\net7.0\MatrizQuadrada.csproj.CoreCompileInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\obj\Debug\net7.0\MatrizQuadrada.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\obj\Debug\net7.0\refint\MatrizQuadrada.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\obj\Debug\net7.0\MatrizQuadrada.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\obj\Debug\net7.0\MatrizQuadrada.genruntimeconfig.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizQuadrada\obj\Debug\net7.0\ref\MatrizQuadrada.dll
