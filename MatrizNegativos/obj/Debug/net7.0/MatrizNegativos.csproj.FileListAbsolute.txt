@@ -1,0 +1,14 @@
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\bin\Debug\net7.0\MatrizNegativos.exe
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\bin\Debug\net7.0\MatrizNegativos.deps.json
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\bin\Debug\net7.0\MatrizNegativos.runtimeconfig.json
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\bin\Debug\net7.0\MatrizNegativos.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\bin\Debug\net7.0\MatrizNegativos.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\obj\Debug\net7.0\MatrizNegativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\obj\Debug\net7.0\MatrizNegativos.AssemblyInfoInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\obj\Debug\net7.0\MatrizNegativos.AssemblyInfo.cs
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\obj\Debug\net7.0\MatrizNegativos.csproj.CoreCompileInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\obj\Debug\net7.0\MatrizNegativos.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\obj\Debug\net7.0\refint\MatrizNegativos.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\obj\Debug\net7.0\MatrizNegativos.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\obj\Debug\net7.0\MatrizNegativos.genruntimeconfig.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\MatrizNegativos\obj\Debug\net7.0\ref\MatrizNegativos.dll
