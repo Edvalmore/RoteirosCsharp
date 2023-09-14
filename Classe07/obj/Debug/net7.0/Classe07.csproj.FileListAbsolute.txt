@@ -1,0 +1,14 @@
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\bin\Debug\net7.0\Classe07.exe
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\bin\Debug\net7.0\Classe07.deps.json
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\bin\Debug\net7.0\Classe07.runtimeconfig.json
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\bin\Debug\net7.0\Classe07.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\bin\Debug\net7.0\Classe07.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\obj\Debug\net7.0\Classe07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\obj\Debug\net7.0\Classe07.AssemblyInfoInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\obj\Debug\net7.0\Classe07.AssemblyInfo.cs
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\obj\Debug\net7.0\Classe07.csproj.CoreCompileInputs.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\obj\Debug\net7.0\Classe07.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\obj\Debug\net7.0\refint\Classe07.dll
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\obj\Debug\net7.0\Classe07.pdb
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\obj\Debug\net7.0\Classe07.genruntimeconfig.cache
+C:\Users\edvalmore.filho\Documents\Roteiros\Classe07\obj\Debug\net7.0\ref\Classe07.dll
