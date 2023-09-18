@@ -1,0 +1,14 @@
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\bin\Debug\net7.0\Classe10.exe
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\bin\Debug\net7.0\Classe10.deps.json
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\bin\Debug\net7.0\Classe10.runtimeconfig.json
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\bin\Debug\net7.0\Classe10.dll
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\bin\Debug\net7.0\Classe10.pdb
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\obj\Debug\net7.0\Classe10.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\obj\Debug\net7.0\Classe10.AssemblyInfoInputs.cache
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\obj\Debug\net7.0\Classe10.AssemblyInfo.cs
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\obj\Debug\net7.0\Classe10.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\obj\Debug\net7.0\Classe10.dll
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\obj\Debug\net7.0\refint\Classe10.dll
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\obj\Debug\net7.0\Classe10.pdb
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\obj\Debug\net7.0\Classe10.genruntimeconfig.cache
+H:\Meu Drive\Cursos\C# COMPLETO Programação Orientada a Objetos + Projetos\Classe10\obj\Debug\net7.0\ref\Classe10.dll
